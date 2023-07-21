@@ -1,0 +1,4 @@
+style 
+td,tr{
+    bottom: var(bottom);
+}
